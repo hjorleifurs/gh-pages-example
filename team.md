@@ -3,9 +3,9 @@ layout: page
 title: Team
 ---
 
-# Person A
+# Donald Duck
 
-Short bio ...
+Single father of 3 children. Is very poor
 
 
 # Person B
